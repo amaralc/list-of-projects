@@ -2,7 +2,7 @@
 
 🌐 Public repositories
 
-🔒 Personal Private repositories (link to live demo if available)
+🔒 Owned organization, private repositories (link to live demo if available)
 
 <br/>
 
@@ -10,7 +10,7 @@
 
 <details>
   
-  <a href="https://github.com/amaralc/projeto-visao-computacional"><summary>🌐 Measuring laser cladding bead height with computer vision [Python, Open CV, Jupyter Notebook]</summary></a>
+  <summary><a href="https://github.com/amaralc/projeto-visao-computacional">🌐 Measuring laser cladding bead height with computer vision </a>[Python, Open CV, Jupyter Notebook]</summary>
 
   Description: Create 3D profiles of metal beads by measuring bead heights using classical computer vision algorithms to analyse images.
 
@@ -20,7 +20,7 @@
 
 <details>
   
-  <a href="https://github.com/amaralc/laser-pen"><summary>🌐 Laser pen webcam drawing [JavaScript, P5.js, Web Sockets]</summary></a>
+  <summary><a href="https://github.com/amaralc/laser-pen">🌐 Laser pen webcam drawing</a> [JavaScript, P5.js, Web Sockets]</summary>
 
   Description: Use webcam video to draw simple profiles using a laser pointer and transmit the same image to different clients using sockets.
 
@@ -32,11 +32,11 @@
 
 <br/>
 
-## ReactJS
+## ReactJS and Node.js
 
 <details>
   
-  <a href="https://4ih6h.csb.app/"><summary>🌐 LMP first prototype website [JavaScript, ReactJS, Bootstrap]</summary></a>
+  <summary><a href="https://4ih6h.csb.app/">🌐 LMP first prototype website </a>[JavaScript, ReactJS, Bootstrap]</summary>
 
   [Private Repository](https://github.com/peerlab-devs/peerlab-platform-fe-mvt-dev)
 
@@ -48,7 +48,7 @@
 
 <details>
   
-  <a href="https://www.hipeerlab.info/"><summary>🌐 Hipeerlab website [JavaScript, ReactJS, Bootstrap]</summary></a>
+  <summary><a href="https://www.hipeerlab.info/">🌐 Hipeerlab website </a>[JavaScript, ReactJS, Bootstrap]</summary>
 
   [Public Repository](https://github.com/amaralc/hipeerlab-platform-fe)
 
@@ -62,7 +62,7 @@
 
 <details>
   
-  <a href="https://eloquent-bartik-1ded97.netlify.app/"><summary>🔒 Peerlab MVT frontend [JavaScript, ReactJS, Styled Components]</summary></a>
+  <summary><a href="https://eloquent-bartik-1ded97.netlify.app/">🔒 Peerlab MVT frontend </a>[JavaScript, ReactJS, Styled Components]</summary>
 
   [Repository](https://github.com/peerlab-devs/peerlab-platform-fe-mvt-dev)
 
@@ -76,13 +76,20 @@
 
 <details>
   
-  <a href=""><summary>🔒 Peerlab MVP frontend [JavaScript, ReactJS, Styled Components, Material UI]</summary></a>
+  <summary><a href="https://peerlab.com.br">🔒 Peerlab MVP </a>[JavaScript, ReactJS, Styled Components, Material UI, Node.js, Express.js]</summary>
 
-  [Repository](https://github.com/peerlab-devs/peerlab-platform-fe-mvp-dev)
+  [Front end repository](https://github.com/peerlab-devs/peerlab-platform-fe-mvp-dev)
+
+  [Back end repository](https://github.com/peerlab-devs/peerlab-platform-api-mvp-dev)
 
   Description: Lead the development of functional concept of platform to be used by first paying clients. Project fetches data from node backend (with postgres) and google sheets.
 
   <img src="https://trello-attachments.s3.amazonaws.com/5df3a9d74458ba69cb17da40/5edd961be75fe6385c2a8e3a/f790101cd92c11813e394c1eb9c7498a/image.png"/>
 
 </details>
+
+<br/>
+
+
+
 
