@@ -106,19 +106,18 @@
 
 <details>
   
-  <summary><a href="https://next-react-three-fiber-js.vercel.app/react-three-fiber/examples/move-an-object">🌐 Highcharts first experiment </a>[JavaScript, ReactJS, Next.js, Styled Components, Highcharts]</summary>
+  <summary><a href="https://next-js-highcharts.vercel.app/">🌐 Highcharts first experiment </a>[JavaScript, ReactJS, Next.js, Styled Components, Highcharts]</summary>
 
   [Repository](https://github.com/amaralc/next-js-highcharts)
 
-  Description: Move objects in 3D space using Three.js library.
+  Description: Fetch data and show graph using highcharts.
 
-  <img src=""/>
+  <img src="https://trello-attachments.s3.amazonaws.com/5e0e3e5eb067901bfaab5d62/5e0e424b5803be3e83a070b4/b84f35fb029b548f588fa9984a3a3193/image.png"/>
 
 </details>
 
 <br/>
 
-https://next-react-three-fiber-js.vercel.app/
 
 
 
