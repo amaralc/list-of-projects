@@ -90,6 +90,36 @@
 
 <br/>
 
+## Data visualization experiments
+
+<details>
+  
+  <summary><a href="https://next-react-three-fiber-js.vercel.app/react-three-fiber/examples/move-an-object">🌐 Three.js experiments </a>[JavaScript, ReactJS, Next.js, Styled Components, Three.js]</summary>
+
+  [Repository](https://github.com/amaralc/next-react-three-fiber-js)
+
+  Description: Move objects in 3D space using Three.js library.
+
+  <img src="https://trello-attachments.s3.amazonaws.com/5e0e424b5803be3e83a070b4/600x352/d132efba89e62b804a1c7d02f21defff/image.png"/>
+
+</details>
+
+<details>
+  
+  <summary><a href="https://next-react-three-fiber-js.vercel.app/react-three-fiber/examples/move-an-object">🌐 Highcharts first experiment </a>[JavaScript, ReactJS, Next.js, Styled Components, Highcharts]</summary>
+
+  [Repository](https://github.com/amaralc/next-js-highcharts)
+
+  Description: Move objects in 3D space using Three.js library.
+
+  <img src=""/>
+
+</details>
+
+<br/>
+
+https://next-react-three-fiber-js.vercel.app/
+
 
 
 
