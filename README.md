@@ -116,6 +116,18 @@
 
 </details>
 
+<details>
+  
+  <summary><a href="https://github.com/amaralc/financial-graphs-experiment">🌐 Financial charts </a>[TypeScript, ReactJS, Next.js]</summary>
+
+  [Repository](https://github.com/amaralc/financial-graphs-experiment)
+
+  Description: Fetch data and plot financial charts.
+
+</details>
+
+
+
 <br/>
 
 
