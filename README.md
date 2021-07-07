@@ -118,7 +118,7 @@
 
 <details>
   
-  <summary><a href="https://github.com/amaralc/financial-graphs-experiment">🌐 Financial charts </a>[TypeScript, ReactJS, Next.js]</summary>
+  <summary><a href="https://github.com/amaralc/financial-charts-experiment">🌐 Financial charts </a>[TypeScript, ReactJS, Next.js]</summary>
 
   [Repository](https://github.com/amaralc/financial-graphs-experiment)
 
