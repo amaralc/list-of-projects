@@ -35,30 +35,25 @@
 ## ReactJS and Node.js
 
 <details>
-  
+
+  <details>
+    <summary>2022 - 🌐 Module Federation Expermiments</summary>
+    [Public Repository](https://github.com/amaralc/module-federation-experiments)
+    Description: Expermienting with module federation and next-js, SSR, SSG and CSR.
+  </details>
   <summary><a href="https://4ih6h.csb.app/">🌐 LMP first prototype website </a>[JavaScript, ReactJS, Bootstrap]</summary>
+    [Private Repository](https://github.com/peerlab-devs/peerlab-platform-fe-mvt-dev)
+    Description: Test simple website concept to substitute current deprecated laboratory website.
+    <img src="https://trello-attachments.s3.amazonaws.com/5d2cc481402a708bf57152ff/5d56ebb75be1972a8479b086/7c93d35ff7b1a24f04ac84819aa554dc/image.png"/>
+  </details>
 
-  [Private Repository](https://github.com/peerlab-devs/peerlab-platform-fe-mvt-dev)
-
-  Description: Test simple website concept to substitute current deprecated laboratory website.
-
-  <img src="https://trello-attachments.s3.amazonaws.com/5d2cc481402a708bf57152ff/5d56ebb75be1972a8479b086/7c93d35ff7b1a24f04ac84819aa554dc/image.png"/>
-  
-</details>
-
-<details>
-  
-  <summary><a href="https://www.hipeerlab.info/">🌐 Hipeerlab website </a>[JavaScript, ReactJS, Bootstrap]</summary>
-
-  [Public Repository](https://github.com/amaralc/hipeerlab-platform-fe)
-
-  Description: Lead the development of website to document activity of hipeerlab volunteers during the first six months of Covid-19 pandemic, in Florianópolis, SC, Brazil.
-
-  Developers: Alan Christian, Arthur Della Favera, Bruno Weber, Rafael Lehmkuhl, Luam G. Maul e Calil Amaral.
-
-  <img src="https://trello-attachments.s3.amazonaws.com/5e7d5e472b10ec11bd5735b3/5e7d5e472b10ec11bd5735c4/1e0fc37920c1ba2eeab2067b2e13e723/image.png"/>
-  
-</details>
+  <details> 
+    <summary><a href="https://www.hipeerlab.info/">🌐 Hipeerlab website </a>[JavaScript, ReactJS, Bootstrap]</summary>
+    [Public Repository](https://github.com/amaralc/hipeerlab-platform-fe)
+    Description: Lead the development of website to document activity of hipeerlab volunteers during the first six months of Covid-19 pandemic, in Florianópolis, SC, Brazil.
+    Developers: Alan Christian, Arthur Della Favera, Bruno Weber, Rafael Lehmkuhl, Luam G. Maul e Calil Amaral.
+    <img src="https://trello-attachments.s3.amazonaws.com/5e7d5e472b10ec11bd5735b3/5e7d5e472b10ec11bd5735c4/1e0fc37920c1ba2eeab2067b2e13e723/image.png"/>
+  </details>
 
 <details>
   
